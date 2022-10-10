@@ -1,0 +1,4 @@
+ofxXmlSettings
+ofxControlPanel
+ofxGui
+ofxOsc
